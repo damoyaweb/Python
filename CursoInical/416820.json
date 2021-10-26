@@ -1,0 +1,51 @@
+{
+	"id": 416820,
+	"seriesname": "SAL-BTA",
+	"documento": "PruebaInteN",
+	"codcliente": "GWS",
+	"tiposervicio": "INTENCION DE NACIONALIZACION INVENTARIO",
+	"idtiposervicio": 16,
+	"idtiposolicitud": 3,
+	"codclientesap": "CN830074144",
+	"lineas": [
+		{
+			"id": 1424381,
+			"idSolicitud": 416820,
+			"linenum": 0,
+			"sublinenum": 0,
+			"codigo": "101105",
+			"descripcion": "VINO CASILLERO RED BLEND 750",
+			"cantidadsolicitada": 1,
+			"almacen": "131",
+			"proyecto": "BOGOTA",
+			"doctransporte": null,
+			"lote": null
+		},
+		{
+			"id": 1425001,
+			"idSolicitud": 416884,
+			"linenum": 0,
+			"sublinenum": 0,
+			"codigo": "101105",
+			"descripcion": "VINO CASILLERO RED BLEND 750",
+			"cantidadsolicitada": 1,
+			"almacen": "131",
+			"proyecto": "BOGOTA",
+			"doctransporte": null,
+			"lote": null
+		},
+		{
+			"id": 1425002,
+			"idSolicitud": 416884,
+			"linenum": 1,
+			"sublinenum": 0,
+			"codigo": "101004-1",
+			"descripcion": "VINO MARQUES CABERNET 750",
+			"cantidadsolicitada": 1,
+			"almacen": "131",
+			"proyecto": "BOGOTA",
+			"doctransporte": null,
+			"lote": null
+		}
+	]
+}
